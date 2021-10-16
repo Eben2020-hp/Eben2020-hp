@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there 👋, I am Eben Emmanuel
 
-<!--
-**Eben2020-hp/Eben2020-hp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Interesting Data Science Projects
+- 🌱 I’m currently on road to Conquer Data Science
+- 👯 I’m looking to collaborate on Unsupervised Learning Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eben2020-hp&langs_count=4) &nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eben2020-hp&show_icons=true&theme=dracula)
+
+
+- 💬 Ask me about Mathematics, Statistics, Data Science, Machine Learning, Deep Learning, and Restaurants (Cheapest)
+- 📫 How to reach me: Mail me at ebenemmanuel7@gmail.com or Ping on <a href="https://www.linkedin.com/in/eben-emmanuel/">Linkedin</a>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
