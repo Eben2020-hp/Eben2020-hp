@@ -1,7 +1,7 @@
 ### Hey there 👋, I am Eben Emmanuel
 
 
-- 🔭 I’m currently working on Interesting Data Science Projects
+- 🔭 I’m currently working on multiple Data Science Projects
 - 🌱 I’m currently on road to Conquer Data Science
 - 👯 I’m looking to collaborate on Unsupervised Learning Projects
 
