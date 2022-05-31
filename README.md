@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on multiple Data Science Projects
 - 🌱 I’m currently on road to Conquer Data Science
-- 👯 I’m looking to collaborate on Unsupervised Learning Projects
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eben2020-hp&langs_count=4) &nbsp; ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eben2020-hp&show_icons=true&theme=dracula)
